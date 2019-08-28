@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Kishore Pothuri kishore.pothuri@gmail.com
 
 # THANKS
 
